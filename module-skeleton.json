@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-marketing-development-funds-flutter",
+  "capabilityKey": "liberusoftware/module-crm-marketing-development-funds",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_marketing_development_funds_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/marketing-development-funds.md",
+  "presentationPlan": "projects/crm/flutter/marketing-development-funds.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
